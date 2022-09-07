@@ -1,0 +1,16 @@
+[
+	{
+		"ParameterKey": "Environment",
+		"ParameterValue": "Mina-Network-Infrastructure"
+	},
+	{
+		"ParameterKey": "Project",
+		"ParameterValue": "Mina-Cloud-DevOps-Website"
+	},
+	{
+		"ParameterKey": "InstanceType",
+		"ParameterValue": "t3.medium"
+	}
+	
+
+]

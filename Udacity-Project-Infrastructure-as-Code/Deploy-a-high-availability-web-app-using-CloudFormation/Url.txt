@@ -1,1 +1,0 @@
-http://mina-WebAp-HIOU96XPFS6B-290960088.us-east-1.elb.amazonaws.com
